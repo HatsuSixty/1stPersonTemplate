@@ -1,8 +1,0 @@
-extends KinematicBody
-
-var speed        = 7
-var acceleration = 20
-var gravity      = 
-
-func _ready():
-	
